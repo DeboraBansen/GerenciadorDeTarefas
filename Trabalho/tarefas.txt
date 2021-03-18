@@ -1,2 +1,0 @@
-0, NOME: eda, INICIO 1/1/2 as 3:4, DURACAO: 2, DEADLINE 3/2/3 as 2:3
-1, NOME: fre, INICIO 3/4/2 as 1:2, DURACAO: 3, DEADLINE 3/4/3 as 2:3
